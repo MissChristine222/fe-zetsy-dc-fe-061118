@@ -24,7 +24,7 @@ h1 {
   font-family: 'Baskerville';
 }
 
-h6 {
-  font-size: 
+#footer {
+  text-align: right; 
 }
 /* Write all remaining styles here */
