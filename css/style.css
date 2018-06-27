@@ -49,6 +49,7 @@ hr {
 
 .box {
   border: 5px solid #cbcbcb;
+  width: 25%;
 }
 
 #featured img {
