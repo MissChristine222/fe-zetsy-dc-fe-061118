@@ -1,10 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-h1 {
+@font-face {
   font-family: Baskerville;
   src: local ("Baskerville"),
-  url()
-  
+  url(Baskerville.ttf)
   font-weight: normal;
 }
 
