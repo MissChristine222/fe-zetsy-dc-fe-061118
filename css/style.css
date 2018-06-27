@@ -23,9 +23,9 @@ body {
 .column {
   width: 25%;
   float: left;
-  border: 1px;
-  border-color: #444444;
 }
+
+.box
 
 h1 {
   font-family: 'Baskerville';
