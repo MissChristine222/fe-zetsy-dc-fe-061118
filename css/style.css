@@ -34,7 +34,7 @@ h1 {
   font-size: 72px;
   font-weight: normal;
   color: #93a6a0;
-  border-bottom: 1px #cbcbcb;
+  border-bottom: 1px solid #cbcbcb;
 }
 
 hr {
