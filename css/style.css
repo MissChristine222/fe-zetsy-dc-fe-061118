@@ -52,6 +52,10 @@ hr {
   color: #cbcbcb;
 }
 
+.press img {
+  border: 5px solid #9baaa5;;
+}
+
 #featured img {
   border: 5px solid #9baaa5;
 }
