@@ -23,7 +23,7 @@ body {
 .column {
   width: 22%;
   float: left;
-  border-width: 1%;
+  border-width: 1px;
   border-style: solid;
   border-color: #cbcbcb;
   margin: 1%;
