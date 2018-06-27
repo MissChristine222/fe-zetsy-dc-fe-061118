@@ -48,6 +48,7 @@ hr {
 }
 
 .box {
+  box-sizing: border-box
   border: 5px solid #cbcbcb;
   margin: 5px;
   width: 100%;
