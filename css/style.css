@@ -2,6 +2,7 @@
 
 h1 {
   font-family: Baskerville;
+  src: local ()
   font-weight: normal;
 }
 
