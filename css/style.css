@@ -2,7 +2,8 @@
 
 h1 {
   font-family: Baskerville;
-  src: local (Baskerville)
+  src: local ("Baskerville"),
+  url()
   
   font-weight: normal;
 }
