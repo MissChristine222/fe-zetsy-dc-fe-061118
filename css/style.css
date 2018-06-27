@@ -36,6 +36,7 @@ h1 {
 
 #hero img {
   border: 5px;
+  border-style: solid;
   border-color:#9baaa5;
 }
 #copyright {
