@@ -48,11 +48,7 @@ hr {
   color: #cbcbcb;
 }
 
-.box {
-  box-sizing: content-box;
-  border: 5px solid #cbcbcb;
-  width: 100%;
-}
+
 
 #featured img {
   border: 5px solid #9baaa5;
