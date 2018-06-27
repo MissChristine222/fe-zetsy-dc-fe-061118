@@ -57,6 +57,7 @@ hr {
 
 #press img {
   border: 5px solid #cdcdcd;
+  padding: 1px;
 }
 
 #press img:hover {
