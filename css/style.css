@@ -20,6 +20,11 @@ body {
 	padding: 0 45px 20px;
 }
 
+.column {
+  width: 25%;
+  float: left;
+}
+
 h1 {
   font-family: 'Baskerville';
 }
