@@ -52,6 +52,10 @@ hr {
   border: 5px solid #cdcdcd;
 }
 
+#press img:hover {
+  border: 5px solid #9baaa5;
+}
+
 #featured img {
   border: 5px solid #9baaa5;
 }
