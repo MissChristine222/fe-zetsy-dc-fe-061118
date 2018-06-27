@@ -34,8 +34,8 @@ h1 {
   font-family: 'Baskerville';
 }
 
-img #hero {
-  border-width: 45px;
+#hero img {
+  border: 5px;
   border-color:#9baaa5;
 }
 #copyright {
