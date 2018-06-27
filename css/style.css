@@ -27,7 +27,6 @@ body {
 
 .figure {
   margin: 0 auto;
-  
 }
 
 h1 {
@@ -35,6 +34,10 @@ h1 {
   font-size: 72px;
   font-weight: normal;
   color: #93a6a0;
+}
+
+hr {
+  
 }
 
 #featured img {
