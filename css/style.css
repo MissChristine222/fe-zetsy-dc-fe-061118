@@ -23,7 +23,9 @@ body {
 .column {
   width: 25%;
   float: left;
-  border: 1% solid #cbcbcb;
+  border-width: 1%;
+  border-style: solid;
+  border-color: #cbcbcb;
 }
 
 .figure {
