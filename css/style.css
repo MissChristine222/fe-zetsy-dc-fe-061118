@@ -34,6 +34,10 @@ h1 {
   font-family: 'Baskerville';
 }
 
+img #featured {
+  border-width: 45px
+  border-color:;
+}
 #copyright {
   text-align: right; 
 }
