@@ -23,10 +23,10 @@ body {
 .column {
   width: 22%;
   float: left;
-  border-width: 5px;
+  border-width: 1%;
   border-style: solid;
   border-color: #cbcbcb;
-  margin: 1%;
+  
 }
 
 .figure {
